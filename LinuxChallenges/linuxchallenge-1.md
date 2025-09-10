@@ -14,6 +14,12 @@ Anyway we are not here to discuss about History are we, (we can but do we really
 
 If you have installed Ubuntu or are using one of the Linux Workstations, you are already on Ubuntu. If not there are multitude of online resources from official forums to wikis and more to help you out with the distro. Due to the sheer vast nature of Linux Distros and the respective Ecosystems we can't expect to cover every single distribution so we will be primarily recommending and using Ubuntu as the base distro. Feel free to try and experiment with new distros.
 
-### Checkout this awesome page where you can tryout various distros online for limited time. https://distrosea.com/
+### Checkout this awesome page where you can tryout various distros online for limited time. 
 
+### https://distrosea.com/
 
+## The Terminal!
+
+### Ubuntu primarily uses a customized version of the Gnome Desktop although it comes with other falvours which we wont exactly be going into here. The navigation will not exactly be like what you are used to on Windows and Mac. 
+
+Pressing the Windows Key (on Windows) or Command Key (on Mac) will open up the apps menu, from there you can use the mouse scrollwheel or touchpad gestures or your gamepad controlls or whatever pointing device you have to find the application called Terminal. OR you can simply use the search menu and open that application.
